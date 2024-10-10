@@ -1,1 +1,1 @@
-# -auto_awesome-C-ph-i-c-a-b-n-l-ng-d-ng-x-c-su-t-th-ng-k-26-5.000-Statistical-probability-application
+# :bar_chart: Statistical Probability
